@@ -30,7 +30,7 @@
         <span class="w3-xxlarge w3-hide-large w3-hide-medium">Start something that matters</span><br>
         <div class="w3-center">
             <span class="w3-large">Stop wasting valuable time with projects that just isn't for you.</span>
-            <p><a href="https://github.com/mhasan90?tab=repositories"
+            <p><a href="https://github.com/aartipathania?tab=repositories"
                   class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Team
                 2
                 - GitHub</a></p>
