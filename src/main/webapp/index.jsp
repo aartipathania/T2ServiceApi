@@ -31,10 +31,10 @@
         <div class="w3-center">
             <span class="w3-large">Stop wasting valuable time with projects that just isn't for you.</span>
             <p><a href="https://github.com/aartipathania?tab=repositories"
-                  class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Team
-                2
+                  class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Group
+                5
                 - GitHub</a></p>
-            <h3>Team 2 - Service API</h3>
+            <h3>Group 5 - Service API</h3>
             <a href="/team2-service-webapp/api/AllEmployeeResources">All Employee Resources</a>
             <br>
             <p id="employee">Single Employee Resources</p>
